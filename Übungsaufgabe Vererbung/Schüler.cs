@@ -1,4 +1,4 @@
-﻿namespace BSWiesau1
+﻿namespace Übungsaufgabe_Vererbung
 {
     public class Schüler : Mensch
     {

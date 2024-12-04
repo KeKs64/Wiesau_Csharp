@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO.Compression;
 
-namespace BSWiesau1
+namespace Übungsaufgabe_Vererbung
 {
     class Program
     {
