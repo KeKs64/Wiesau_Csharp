@@ -2,6 +2,6 @@
 
 public class Luftfahrzeug
 {
-    public int baujahr { get; set; }
-    public DateTime hersteller { get; set; }
+    public int Baujahr { get; set; }
+    public string Hersteller { get; set; }
 }

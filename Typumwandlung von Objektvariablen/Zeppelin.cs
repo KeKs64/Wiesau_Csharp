@@ -2,5 +2,5 @@
 
 public class Zeppelin : Luftfahrzeug
 {
-    public double gasvolumen { get; set; }
+    public double Gasvolumen { get; set; }
 }
