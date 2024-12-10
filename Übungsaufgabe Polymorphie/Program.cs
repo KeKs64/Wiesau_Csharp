@@ -13,7 +13,7 @@ internal static class Program
         Arbeiter arbeiter = new Arbeiter
         {
             _name = "Susi Hard Working",
-            _einkommen = 33600
+            _einkommen = 36000
         };
 
         Banker banker = new Banker
