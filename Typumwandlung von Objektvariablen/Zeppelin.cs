@@ -2,5 +2,5 @@
 
 public class Zeppelin : Luftfahrzeug
 {
-    int gasvolumen { get; set; }
+    public double gasvolumen { get; set; }
 }

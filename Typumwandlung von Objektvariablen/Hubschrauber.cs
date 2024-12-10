@@ -2,5 +2,5 @@
 
 public class Hubschrauber : Luftfahrzeug
 {
-    int rotordurchmesser { get; set; }
+    public double rotordurchmesser { get; set; }
 }

@@ -2,5 +2,5 @@
 
 public class Flugzeug : Luftfahrzeug
 {
-    int spannweite { get; set; }
+    public double spannweite { get; set; }
 }
