@@ -44,11 +44,13 @@ public class Person
     
     public virtual double BerechneZuVersteuerndesEinkommen()
     {
+        ZuVersteuerndesEinkommen = Einkommen;
         return ZuVersteuerndesEinkommen;
     }
 
     public virtual double BerechneSteuer(double zuVersteuerndesEinkommen, double steuerSatz = 0.25)
     {
+        Steuer = zuVersteuerndesEinkommen*steuerSatz;
         return Steuer;
     }
 }
