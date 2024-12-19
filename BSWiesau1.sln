@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typumwandlung von Objektvar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handling Exceptions", "Handling Exceptions\Handling Exceptions.csproj", "{5C478B68-9230-47DA-98EC-226B5C52F444}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buchhaltungssoftware", "Buchhaltungssoftware\Buchhaltungssoftware.csproj", "{5C2F1C4F-19DE-4052-B8AF-FBEC6295A89A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{5C478B68-9230-47DA-98EC-226B5C52F444}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C478B68-9230-47DA-98EC-226B5C52F444}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C478B68-9230-47DA-98EC-226B5C52F444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2F1C4F-19DE-4052-B8AF-FBEC6295A89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2F1C4F-19DE-4052-B8AF-FBEC6295A89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2F1C4F-19DE-4052-B8AF-FBEC6295A89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2F1C4F-19DE-4052-B8AF-FBEC6295A89A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
