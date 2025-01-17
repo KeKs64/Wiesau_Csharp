@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louis.mu\\source\\repos\\Bis Weihnachten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD4E35C-314F-48BD-A96E-3F6E9F3E2375}|Bis Weihnachten\\Bis Weihnachten.csproj|c:\\users\\louis.mu\\source\\repos\\bis weihnachten\\bis weihnachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD4E35C-314F-48BD-A96E-3F6E9F3E2375}|Bis Weihnachten\\Bis Weihnachten.csproj|solutionrelative:bis weihnachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\louis.mu\\source\\repos\\Bis Weihnachten\\Bis Weihnachten\\Program.cs",
+              "RelativeDocumentMoniker": "Bis Weihnachten\\Program.cs",
+              "ToolTip": "C:\\Users\\louis.mu\\source\\repos\\Bis Weihnachten\\Bis Weihnachten\\Program.cs",
+              "RelativeToolTip": "Bis Weihnachten\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:44:31.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

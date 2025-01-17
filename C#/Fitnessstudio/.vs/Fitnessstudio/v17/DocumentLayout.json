@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louis.mu\\Desktop\\Schule\\AEuP (BED)\\VisualStudio Projects\\C#\\Fitnessstudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72063CA9-8B39-4340-A0A2-63D3C2D9C076}|Fitnessstudio\\Fitnessstudio.csproj|c:\\users\\louis.mu\\desktop\\schule\\aeup (bed)\\visualstudio projects\\c#\\fitnessstudio\\fitnessstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72063CA9-8B39-4340-A0A2-63D3C2D9C076}|Fitnessstudio\\Fitnessstudio.csproj|solutionrelative:fitnessstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\louis.mu\\Desktop\\Schule\\AEuP (BED)\\VisualStudio Projects\\C#\\Fitnessstudio\\Fitnessstudio\\Program.cs",
+              "RelativeDocumentMoniker": "Fitnessstudio\\Program.cs",
+              "ToolTip": "C:\\Users\\louis.mu\\Desktop\\Schule\\AEuP (BED)\\VisualStudio Projects\\C#\\Fitnessstudio\\Fitnessstudio\\Program.cs",
+              "RelativeToolTip": "Fitnessstudio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:03:34.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
