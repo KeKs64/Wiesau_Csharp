@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louis.mu\\source\\repos\\Gesamtbetrag der Bestellung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B93264-31DF-4B63-85AE-4827550C7463}|Gesamtbetrag der Bestellung\\Gesamtbetrag der Bestellung.csproj|c:\\users\\louis.mu\\source\\repos\\gesamtbetrag der bestellung\\gesamtbetrag der bestellung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B93264-31DF-4B63-85AE-4827550C7463}|Gesamtbetrag der Bestellung\\Gesamtbetrag der Bestellung.csproj|solutionrelative:gesamtbetrag der bestellung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\louis.mu\\source\\repos\\Gesamtbetrag der Bestellung\\Gesamtbetrag der Bestellung\\Program.cs",
+              "RelativeDocumentMoniker": "Gesamtbetrag der Bestellung\\Program.cs",
+              "ToolTip": "C:\\Users\\louis.mu\\source\\repos\\Gesamtbetrag der Bestellung\\Gesamtbetrag der Bestellung\\Program.cs",
+              "RelativeToolTip": "Gesamtbetrag der Bestellung\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:54:24.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
